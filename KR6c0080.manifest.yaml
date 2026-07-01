@@ -1,0 +1,145 @@
+canonical_identifier: bkk:krp/KR6c0080/v1
+canonical_location: https://kanripo.org/bkk/KR6c0080/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 金剛經疏記會編
+  identifiers:
+    alt_id:
+    - X25n0492
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X25/X25n0492.xml
+    old_id: X25n0492
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0080_000.yaml, hash: 'sha256:e6271b66c9e3c764b9908c1a299dfb99ea811ee485c4e58ce6eace986dfa2c2d'}
+  - {seq: 1, filename: KR6c0080_001.yaml, hash: 'sha256:d550cbc8f02606fbe975ba0defa3a1245651e669d96fa8028619a77a81dc4a6a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6c0080_000.markers.yaml, hash: 'sha256:a8d8f55e8450e2eae44e4a347733c3e78ad069881c14c1d30a8d2809fc0a897c'}
+  - {seq: 1, role: markers, filename: assets/KR6c0080_001.markers.yaml, hash: 'sha256:b7bf9fc485459580b0da3cae30a842ec92b00fed4f0107c2ca6ed069b1491a6a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6c0080_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 492-A 金剛般若經疏記會編序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0080_X_000-mulu-2
+    span:
+    - front
+    - 895
+    - 895
+  label: No. 492-B 金剛般若經疏記會編科文
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0080_X_000-mulu-3
+    span:
+    - front
+    - 5302
+    - 5302
+  label: No. 492-C
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0080_X_000-mulu-4
+    span:
+    - front
+    - 5302
+    - 5302
+  label: 十八住階位圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0080_X_000-mulu-5
+    span:
+    - front
+    - 5308
+    - 5308
+  label: 十八住階位圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0080_X_000-mulu-6
+    span:
+    - front
+    - 5800
+    - 5800
+  label: No. 492-D
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0080_X_000-mulu-7
+    span:
+    - front
+    - 5800
+    - 5800
+  label: 二十七疑脈絡圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0080_X_000-mulu-8
+    span:
+    - front
+    - 5807
+    - 5807
+  label: 二十七疑脈絡圖說
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0080_X_000-mulu-9
+    span:
+    - front
+    - 6233
+    - 6233
+  label: 例言
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0080_X_000-mulu-10
+    span:
+    - front
+    - 6882
+    - 6882
+  label: 金剛般若經疏論纂要刊定記會編
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0080_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 56
+  label: '金剛般若經疏論纂要刊定記會編
+
+    卷第一'
+  type: juan
+  level: 1
+hash: sha256:a129294a9b7724b86571eef4198ef1961c2c7047d61e4950d467036def9fc452
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
