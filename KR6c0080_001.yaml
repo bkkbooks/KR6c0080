@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 秦三藏法師鳩摩羅什譯經唐圭山大師宗密述疏宋長水沙門子璿録記清荊豁後學沙門行策會編卍云疏記會編之文出于科會故今省之
-  hash: sha256:ccc2a8755b3c816c5bf15fb83ff16b394213b49743eb134f28069125784d2b7e
+  text: 秦三藏法師鳩摩羅什譯經唐圭山大師宗密述疏宋長水沙門子璿錄記清荊豁後學沙門行策會編卍云疏記會編之文出于科會故今省之
+  hash: sha256:d8fcb40cc444dc8189b272d135c58eeb48c6d281516e1dc7817f38a8304df03f
   markers:
   - {type: 'cbeta:juan-start', offset: 0, content: '金剛般若經疏論纂要刊定記會編
 
@@ -20,4 +20,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/X/X25/X25n0492.xml
     old_id: X25n0492
-hash: sha256:d550cbc8f02606fbe975ba0defa3a1245651e669d96fa8028619a77a81dc4a6a
+hash: sha256:56b4b9eff4dfd7022410738c92842d0f0134f3ab8fe373c2d045db005abb2f5b
