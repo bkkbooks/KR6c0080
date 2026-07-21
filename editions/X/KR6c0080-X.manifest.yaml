@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0080_000-X.yaml, hash: 'sha256:e5aa0350b3fdc706b3a768c7f3b898cf1caece79ddc602bdad5d6f0273d63698'}
+  - {seq: 0, filename: KR6c0080_000-X.yaml, hash: 'sha256:334718c32e262acaa652ab4ea4f6def9432e40c8d4886592941e1f1e7bf03a65'}
   - {seq: 1, filename: KR6c0080_001-X.yaml, hash: 'sha256:56b4b9eff4dfd7022410738c92842d0f0134f3ab8fe373c2d045db005abb2f5b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0080_000-X.markers.yaml, hash: 'sha256:654e35b1140363f4f07fd4d06e5d481019f545b6ea7d22bc0b7d7128c01c6ac4'}
+  - {seq: 0, role: markers, filename: assets/KR6c0080_000-X.markers.yaml, hash: 'sha256:fabf0f74f453b46261ad6fa6513beb1d02a1162ed66efdf072faff786c9bd46a'}
   - {seq: 1, role: markers, filename: assets/KR6c0080_001-X.markers.yaml, hash: 'sha256:d8b59ce7e60d3512d4c04f7eb97c8f6493f62a3371db9a6fdb1dfea2e5e3003b'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6c0080_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 492-A 金剛般若經疏記會編序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0080_X_000-mulu-2
     span:
-    - front
+    - body
     - 895
     - 895
   label: No. 492-B 金剛般若經疏記會編科文
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0080_X_000-mulu-3
     span:
-    - front
+    - body
     - 5302
     - 5302
   label: No. 492-C
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0080_X_000-mulu-4
     span:
-    - front
+    - body
     - 5302
     - 5302
   label: 十八住階位圖
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0080_X_000-mulu-5
     span:
-    - front
+    - body
     - 5308
     - 5308
   label: 十八住階位圖說
@@ -79,7 +79,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0080_X_000-mulu-6
     span:
-    - front
+    - body
     - 5800
     - 5800
   label: No. 492-D
@@ -89,7 +89,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0080_X_000-mulu-7
     span:
-    - front
+    - body
     - 5800
     - 5800
   label: 二十七疑脈絡圖
@@ -99,7 +99,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0080_X_000-mulu-8
     span:
-    - front
+    - body
     - 5807
     - 5807
   label: 二十七疑脈絡圖說
@@ -109,7 +109,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0080_X_000-mulu-9
     span:
-    - front
+    - body
     - 6233
     - 6233
   label: 例言
@@ -119,7 +119,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0080_X_000-mulu-10
     span:
-    - front
+    - body
     - 6882
     - 6882
   label: 金剛般若經疏論纂要刊定記會編
@@ -137,4 +137,4 @@ table_of_contents:
     卷第一'
   type: juan
   level: 1
-hash: sha256:388917dec9df19963349f5fc34f69352b1afec45496fae7d90eb5288509805a1
+hash: sha256:d70bcbcf3c1575cc33b768daad983432e3e907f205130de2683abad1aa41f91b
